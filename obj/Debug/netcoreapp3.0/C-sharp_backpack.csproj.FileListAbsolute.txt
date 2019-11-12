@@ -1,0 +1,11 @@
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Backpack\C-sharp_backpack\bin\Debug\netcoreapp3.0\C-sharp_backpack.exe
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Backpack\C-sharp_backpack\bin\Debug\netcoreapp3.0\C-sharp_backpack.deps.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Backpack\C-sharp_backpack\bin\Debug\netcoreapp3.0\C-sharp_backpack.runtimeconfig.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Backpack\C-sharp_backpack\bin\Debug\netcoreapp3.0\C-sharp_backpack.runtimeconfig.dev.json
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Backpack\C-sharp_backpack\bin\Debug\netcoreapp3.0\C-sharp_backpack.dll
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Backpack\C-sharp_backpack\bin\Debug\netcoreapp3.0\C-sharp_backpack.pdb
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Backpack\C-sharp_backpack\obj\Debug\netcoreapp3.0\C-sharp_backpack.csprojAssemblyReference.cache
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Backpack\C-sharp_backpack\obj\Debug\netcoreapp3.0\C-sharp_backpack.AssemblyInfoInputs.cache
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Backpack\C-sharp_backpack\obj\Debug\netcoreapp3.0\C-sharp_backpack.AssemblyInfo.cs
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Backpack\C-sharp_backpack\obj\Debug\netcoreapp3.0\C-sharp_backpack.dll
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Backpack\C-sharp_backpack\obj\Debug\netcoreapp3.0\C-sharp_backpack.pdb
